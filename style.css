@@ -162,3 +162,23 @@ h6 {
 .icons {
   width: 75px;
 }
+
+#cardHolder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#cardHolder div {
+  /* display: flex; */
+  /* flex-direction: column; */
+  justify-content:space-around;
+  align-items:baseline;
+  padding: 2rem;
+
+}
+
+/* #cardHolder div a {
+  display: flex;
+  flex-direction: row;
+} */
