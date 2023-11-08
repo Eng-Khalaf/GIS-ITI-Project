@@ -44,6 +44,7 @@ h5 {
   color: #222;
   padding: 10px 40px;
   text-align: left;
+  text-transform: capitalize;
 }
 
 h6 {
