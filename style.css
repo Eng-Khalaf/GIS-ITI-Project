@@ -173,8 +173,7 @@ h6 {
 #cardHolder div {
   /* display: flex; */
   /* flex-direction: column; */
-  justify-content:space-around;
-  align-items:baseline;
+  justify-content: space-around;
+  align-items: baseline;
   padding: 2rem;
-
 }
